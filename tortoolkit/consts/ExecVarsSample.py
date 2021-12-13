@@ -7,7 +7,7 @@ except:
         IS_VPS = False
 
         API_HASH = ""
-        API_ID = 
+        API_ID = 0
         BOT_TOKEN = ""
         BASE_URL_OF_BOT = ""
 
