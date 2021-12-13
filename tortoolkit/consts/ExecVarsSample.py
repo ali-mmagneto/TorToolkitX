@@ -6,17 +6,17 @@ except:
         # Set true if its VPS
         IS_VPS = False
 
-        API_HASH = "c23db4aa92da73ff603666812268597a"
-        API_ID = 2374174
-        BOT_TOKEN = "2117226848:AAGBUvqaOyqwV62Ip7WNCcNf27XFJTcukOo"
-        BASE_URL_OF_BOT = "https://alibottorrentttttt.herokuapp.com"
+        API_HASH = ""
+        API_ID = 
+        BOT_TOKEN = ""
+        BASE_URL_OF_BOT = ""
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [-1001157048481]
-        OWNER_ID = 1276627253
+        ALD_USR = []
+        OWNER_ID = 
 
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
@@ -38,7 +38,7 @@ except:
 
         # DB URI for access
         DATABASE_URL = (
-            "mongodb+srv://gncrali:gncrali2006@cluster0.y47du.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+            ""
         )
 
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
@@ -54,8 +54,8 @@ except:
         RCLONE_BASE_DIR = "/"
         
         # Instagram Credentials Stuff [( if you want InstaDL to work :)]
-        INSTA_UNAME = "thefilmmessenger"
-        INSTA_PASS = "gncrali2006"
+        INSTA_UNAME = ""
+        INSTA_PASS = ""
 
         # This value will be considered only if Rclone is True - this may be defied now ;)
         # Cuz at least one needs to be Ture at a time either RCLONE or Leech.
